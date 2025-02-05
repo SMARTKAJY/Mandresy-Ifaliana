@@ -1,0 +1,42 @@
+1_algorithme de base
+ *entre
+    _dents 
+    _brosse a dents
+    _dentifrice 
+    _eau
+ *etapes
+    _prendre la dentifrice par une main
+    _ouvrire la dentifrice 
+    _prendre la brosse a dents par lautre main
+    _appliquer une quantite de dentifrice sur la brosse a dents
+    _humidifier la bouche par de l'eau
+    _cracher l'eau (pouah!) 
+    _ouvrire la bouche avec un grand sourire 
+    _brosser les dents de la face externe ( cote joue ) avec la brosse a dents qui contient une quantite de dentifrice
+    _ouvrire la bouche de facon a voire une grande partie de la launge 
+    _ brosser tous les autres partie des dents 
+    _ retirer la brosse de la bouche
+    _ cracher la dentifrice (pouah!)
+    _rincer la bouche avec de l'eau
+ *sortie
+    _dents propre
+2_algorithme de tri simple 
+   critere de comparaison :la taille
+   strategie : veuillez regarder dans les etapes svp
+   *entre
+    _une pile de 5 livres de taille differentes melange
+   *etapes
+    _mesurer les 5 livres
+    _ce qui a la plus grande taille reste en bas 
+    _mesurer les 4 livres restant
+    _ ce qui a la plus grande taille des 4 se place au dessus du 1ere(la plus bas des livres)
+    _mesurer les 3 livres restant
+    _ce qui a la plus grande taille des 3 se place au dessus du 2eme 
+    _mesurer les 2 livres restsant
+    _ce qui a la plus grande tailee des 2 se place au dessus du 3eme
+    _place le dernier livre au du 4eme
+   ou
+    _mesurer les 5 livres
+    _placer selon la taille les 5 livres , la plus grande est en bas et la plus petite est en haut
+  *sortie
+    _une pile de 5 livres de taille differentes , place de facon ou la plus grande est en bas et la plus petite en haut
